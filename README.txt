@@ -8,10 +8,10 @@ Setup
 2. Install dependencies:
    pip install -r requirements.txt
 3. Run the training script:
-   py script.py
+   NNN.py
 4. Run the app:
-   py app.py
-5. Open http://127.0.0.1:7860 in your browser
+   appberry.py
+5. Open it on your localhost.
 
 Usage
 
