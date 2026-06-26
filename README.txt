@@ -1,6 +1,6 @@
 🍓 Berry Classifier
 
-A simple CNN that classifies images as strawberries or blueberries, with a Gradio web UI and live retraining support.
+A simple CNN that classifies images as strawberries or blueberries, with a Gradio web UI and live retraining based on user feedback.
 
 Setup
 
@@ -13,7 +13,7 @@ Setup
    py app.py
 5. Open http://127.0.0.1:7860 in your browser
 
-## Usage
+Usage
 
 - Upload an image to classify it
 - If the prediction is wrong, click Yes and select the correct label
